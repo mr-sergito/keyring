@@ -10,12 +10,14 @@ Thank you for your interest in contributing to Keyring! This document provides g
    cd keyring
    ```
 
-2. **Install Rust** (if not already installed):
-   - Follow the instructions at [rust-lang.org](https://www.rust-lang.org/tools/install)
-
-3. **Build the project**:
+2. **Build the project**:
    ```bash
    cargo build
+   ```
+
+3. **Run the project**:
+   ```bash
+   cargo run
    ```
 
 4. **Run tests**:
